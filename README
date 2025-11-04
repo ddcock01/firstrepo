@@ -1,0 +1,7 @@
+Teardown Instructions:
+Navigate to the instances screen
+Click the check box next to the running instance
+Select instance state in top right > then select terminate instance in the dropdown menu
+In the new pop up screen select Terminate (Delete)
+The successful termination will be notated with a green bar that says successfully deleted and instance number
+You will see shutting down first by the instance, then it will be followed by terminated
